@@ -7,3 +7,5 @@ Features
 
 Input: Name, age, interests
 Output: Personalized lists 
+
+![Demo of Wordlist Generator](screenshots/screenshotV1.png)
